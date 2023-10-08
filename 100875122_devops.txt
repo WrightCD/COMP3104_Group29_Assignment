@@ -1,1 +1,2 @@
 DEVOPs is a third year course in the Computer Programming and Analysis Program
+It is a portmanteau between the words development and operations.
