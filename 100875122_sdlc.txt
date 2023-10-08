@@ -1,1 +1,2 @@
 SDLC stands for Software Development Life Cycle
+This is a crucial framework to know for industry.
