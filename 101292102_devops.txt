@@ -1,0 +1,4 @@
+Course about the procedures and methods DevOps engineers bring to a workplace environment.
+Increasing productivity by mitigation workflow, analyizing and evaluating various developer tools.
+This course is to get us more familiar with the utilization of such softwares.
+Version Control is a big part of DevOps as this is the main method of analyzing software workflow.

@@ -1,0 +1,5 @@
+Why is sdlc important for DevOps?
+DevOps engineers bring a cohesion of multiple teams workflow. 
+Task mitigation and version control, are important duties of a DevOps engineer.
+In high-demanding environments DevOps enginners are vital to enhance the flow of operation, which drastically should reduce IT overhead.
+Small bug-fixes to new versions of softwares a DevOps enginner plays an important role in making sure best practices are used in order to deliver.
